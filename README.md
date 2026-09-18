@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://ikarudo.github.io/TechByTahjay/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/tahjay-ulett">LinkedIn</a> ·
-  <a href="mailto:tahjayulet@gmail.com">Email</a>
 </p>
 
 ---
